@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/ZnJxDSsb/1c9f1fb933742f20fd11.gif" width = "245px" height = "120px" alt="Preview" />
-  <img src="https://i.postimg.cc/J0Kcf2Sb/4fd49076a6664f03f124.gif" width = "245px" height = "120px" alt="Preview-1" />
+  <img src="https://i.postimg.cc/ZnJxDSsb/1c9f1fb933742f20fd11.gif" width = "250px" height = "125px" alt="Preview" />
+  <img src="https://i.postimg.cc/J0Kcf2Sb/4fd49076a6664f03f124.gif" width = "250px" height = "125px" alt="Preview-1" />
 </p>
 
 ---
